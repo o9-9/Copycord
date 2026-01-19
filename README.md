@@ -1,3 +1,7 @@
+# This fork allows for greater control of DM Exports, which in turn carries higher risk to the User Account and privacy issues. This is for educational purposes only.
+
+---
+
 [![Release](https://img.shields.io/github/v/release/Copycord/Copycord?label=Release&color=2E7D32&labelColor=2E7D32&logo=github&logoColor=FFFFFF)](https://github.com/Copycord/Copycord/releases/latest)
 [![Discord](https://img.shields.io/discord/1406152440377638952?label=Discord&logo=discord&color=C62828&labelColor=C62828&logoColor=FFFFFF)](https://discord.gg/ArFdqrJHBj)
 
